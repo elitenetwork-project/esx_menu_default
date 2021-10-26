@@ -8,9 +8,8 @@ New style for esx_menu_default
 
 - es_extended
 
-## Download & Installation
+## Installation
 
-- Download https://github.com/elitenetwork-project/esx_menu_default/archive/refs/heads/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
