@@ -23,4 +23,4 @@ start esx_menu_default
 
 ## Preview
 
-<img src="https://imgur.com/gallery/2XaldPq.png">
+<img src="https://cdn.discordapp.com/attachments/805465880036114444/902377638553858088/Immagine_2021-10-26_035000.png">
